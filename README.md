@@ -1,2 +1,2 @@
-# Computa-o-Qu-ntica-Geomaker
+# Computacao-Quantica-Geomaker
 Estudo de Computação Quântica na educação básica - Projeto Geomaker

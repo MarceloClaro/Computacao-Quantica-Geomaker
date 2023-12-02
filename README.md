@@ -9,6 +9,8 @@ Esta página é um notebook do Google Colab que ensina os conceitos básicos de 
 - Circuitos quânticos: Introduz o conceito de circuitos quânticos, que são como diagramas que mostram como os qubits e as operações quânticas estão conectados. Mostra como construir e visualizar circuitos quânticos usando o Qiskit.
 - Simulação de experimentos quânticos: Demonstra como simular o resultado de um circuito quântico usando o Qiskit, e como analisar os resultados usando histogramas e estatísticas.
 
+https://colab.research.google.com/drive/1EGVIXC6yFi7bVkIPgineLzfx_2gz5bQh?usp=sharing
+
 ##**Classificação Quântica do Conjunto de Dados Iris**
 
 Este estudo utilizou a biblioteca Qiskit para aplicar técnicas de classificação quântica ao conjunto de dados Iris. A metodologia envolveu a preparação dos dados, inicialização de parâmetros, treinamento e avaliação. Os resultados mostraram uma acurácia de 91,77% na classificação da espécie 'Iris-setosa'. Gráficos da Curva ROC, matriz de confusão e erros de teste foram gerados para avaliar o desempenho do modelo. Embora promissor, é importante considerar que o conjunto de dados Iris é simples e a implementação em um computador quântico real pode trazer desafios adicionais.
